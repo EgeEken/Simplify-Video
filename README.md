@@ -7,10 +7,10 @@ UPDATE: Decided to release this as part of the [ImageProcessing_Ege library](htt
 
 <details><summary>Results: (click here to open)</summary>
 <p>
+  
+![computer](https://user-images.githubusercontent.com/96302110/219778627-3a9f2813-2ecb-4899-bf76-7257ec69aa87.gif)
 
-https://user-images.githubusercontent.com/96302110/219777169-1e0886b1-8798-4a9f-ae56-e73374245a9d.mp4
-
-https://user-images.githubusercontent.com/96302110/219777411-b4f4500c-7b06-471e-ada9-8f7428c0c719.mp4
+![simple](https://user-images.githubusercontent.com/96302110/219778666-3e9dda27-280a-4531-ab12-c450f8d7a1ce.gif)
 
 Just to illustrate how slow this program is, this 3 second long 180p video took a full minute to process and return a result on my computer 
 
